@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Sehoon Oh
+position: M.S. Student
+affiliation: Yonsei University
+email: dhtpgns7@yonsei.ac.kr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,7 +14,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/OHSEHOON99
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+google_analytics: G-00H5M50DPQ
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
