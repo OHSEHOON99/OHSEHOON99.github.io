@@ -12,10 +12,9 @@ I expect to complete my M.S. degree in the first semester of 2026.
 
 ## Research Interests
 
-- **Spatial Data Science:** Spatiotemporal modeling and large-scale geospatial analysis for understanding complex spatial patterns.  
-- **Geospatial AI:** Deep learning-based analysis of satellite imagery, mobility data, and urban systems.  
-- **Remote Sensing:** Multi-sensor data fusion (Landsat, MODIS, radar, LiDAR) for earth observation and environmental applications.  
-- **3D Point Cloud:** 3D sensing and modeling for terrain analysis, infrastructure monitoring, and safety assessment.
+- **Spatial Data Science:** Mobility data analysis, Spatiotemporal modeling  
+- **Remote Sensing:** Multi-sensor remote sensing for environmental monitoring and earth observation  
+- **3D Point Cloud:** Scan vs BIM, 3D infrastructure modeling and safety assessment  
 
 ## News
 
