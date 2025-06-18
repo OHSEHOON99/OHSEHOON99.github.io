@@ -4,19 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student in the Department of Civil and Environmental Engineering at Yonsei University, advised by Prof. Joon Heo.  
+I am conducting research at the [Spatial Computing for Sustainable Infrastructure Laboratory (SCSI Lab)](https://scsi.yonsei.ac.kr/).  
+My research focuses on Spatial Data Science, Geospatial AI, Remote Sensing, and 3D Point Cloud.  
+I expect to complete my M.S. degree in the first semester of 2026.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Spatial Data Science:** Spatiotemporal modeling and large-scale geospatial analysis for understanding complex spatial patterns.  
+- **Geospatial AI:** Deep learning-based analysis of satellite imagery, mobility data, and urban systems.  
+- **Remote Sensing:** Multi-sensor data fusion (Landsat, MODIS, radar, LiDAR) for earth observation and environmental applications.  
+- **3D Point Cloud:** 3D sensing and modeling for terrain analysis, infrastructure monitoring, and safety assessment.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2023]** Participated in ACM SIGSPATIAL 2023 (Hamburg).  
+- **[Nov. 2023]** Received SIGSPATIAL GISCUP 2023 Travel Award (Top 8).  
+    - *Auto-identification of Supraglacial Lakes on the Greenland ice sheet from Satellite Imagery*  
+- **[Nov. 2024]** Participating in ACM SIGSPATIAL 2024 (Atlanta).  
+- **[Jun. 2025]** Planning to attend IAHR 2025.  
 
 {% include_relative _includes/publications.md %}
 
