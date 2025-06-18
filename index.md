@@ -13,7 +13,7 @@ I expect to complete my M.S. degree in the first semester of 2026.
 ## Research Interests
 
 - **Spatial Data Science:** Mobility data analysis, Spatiotemporal modeling  
-- **Remote Sensing:** Multi-sensor remote sensing for environmental monitoring and earth observation  
+- **Remote Sensing:** Deep learning and machine learning on satellite imagery  
 - **3D Point Cloud:** Scan vs BIM, 3D infrastructure modeling and safety assessment  
 
 ## News
