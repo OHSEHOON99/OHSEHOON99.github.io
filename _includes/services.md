@@ -4,19 +4,19 @@
 
 <ul style="margin:0 0 5px;">
 
-  <li>Participant, National R&D Program "Spatial Knowledge Reasoning Engine Technology Development", Ministry of Land, Infrastructure and Transport of Korea (MoLIT), Seoul National University Industry-University Cooperation Foundation (2022–2027)</li>
+  <li>Participant, <strong>"Spatial Knowledge Reasoning Engine Technology Development"</strong>, Ministry of Land, Infrastructure and Transport of Korea (MoLIT), Seoul National University (2022–2027)</li>
 
-  <li>Participant, "Advanced Monitoring and Safety Assessment Technology for River-Crossing Hydraulic Structures", Future-Oriented Water Resources Safety Enhancement Program, Ministry of Environment of Korea (ME), Yonsei University (2024–2025)</li>
+  <li>Participant, <strong>"Advanced Monitoring and Safety Assessment Technology for River-Crossing Hydraulic Structures"</strong>, Ministry of Environment of Korea (ME), Yonsei University (2024–2025)</li>
 
-  <li>Participant, Basic Research Program "Development of Continual Learning Framework for Construction Robots using 3D Spatial Data and BIM", Ministry of Science and ICT of Korea (MSIT), Yonsei University (2025–2028)</li>
+  <li>Participant, <strong>"Development of Continual Learning Framework for Construction Robots using 3D Spatial Data and BIM"</strong>, Ministry of Science and ICT of Korea (MSIT), Yonsei University (2025–2028)</li>
 
-  <li>Participant, Basic Research Program "Spatial Big Data Analysis for Urban, Health, and Education Resilience", Ministry of Science and ICT of Korea (MSIT), Yonsei University (2021–2024)</li>
+  <li>Participant, <strong>"Spatial Big Data Analysis for Urban, Health, and Education Resilience"</strong>, Ministry of Science and ICT of Korea (MSIT), Yonsei University (2021–2024)</li>
 
-  <li>Participant, "Development of Smart Field Support System for Disaster Site Situation Management", Intelligent Situation Management Technology Development Program, Ministry of the Interior and Safety of Korea (MOIS), Konkuk University (2021–2025)</li>
+  <li>Participant, <strong>"Development of Smart Field Support System for Disaster Site Situation Management"</strong>, Ministry of the Interior and Safety of Korea (MOIS), Konkuk University (2021–2025)</li>
 
-  <li>Participant, "Study on the Utilization of Open Data and Satellite Imagery for Analyzing Global Movements of Raw Materials (Energy, Food)", Korea Aerospace Society, Yonsei University (Mar.–Dec. 2024)</li>
+  <li>Participant, <strong>"Study on the Utilization of Open Data and Satellite Imagery for Analyzing Global Movements of Raw Materials (Energy, Food)"</strong>, Korea Aerospace Society, Yonsei University (Mar.–Dec. 2024)</li>
 
-  <li>Research member, <a href="https://scsi.yonsei.ac.kr/"><autocolor>Spatial Computing for Sustainable Infrastructure Laboratory (SCSI Lab)</autocolor></a>, Yonsei University (2024–Present)</li>
+  <li>Research member, <a href="https://scsi.yonsei.ac.kr/"><strong><autocolor>Spatial Computing for Sustainable Infrastructure Laboratory (SCSI Lab)</autocolor></strong></a>, Yonsei University (2024–Present)</li>
 
 </ul>
 
