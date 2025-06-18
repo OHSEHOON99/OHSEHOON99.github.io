@@ -6,7 +6,7 @@ layout: homepage
 
 I am a M.S. student in the Department of Civil and Environmental Engineering at Yonsei University, advised by Prof. Joon Heo.  
 I am conducting research at the [Spatial Computing for Sustainable Infrastructure Laboratory (SCSI Lab)](https://scsi.yonsei.ac.kr/).  
-My research focuses on Spatial Data Science, Geospatial AI, Remote Sensing, and 3D Point Cloud.  
+My research focuses on Spatial Data Science, Remote Sensing, and 3D Point Cloud.  
 I expect to complete my M.S. degree in the first semester of 2026.
 
 
