@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "딥러닝 기반 강수 예측 모델 개선 연구: 가중 평균 앙상블 기법을 통한 성능 향상"
+    authors: <strong>오세훈</strong>, 주유형, 박상윤, 홍지완, 허준
+    conference_short: 한국측량학회지
+    conference: 한국측량학회지, Vol. 42(6), 551–559, 2024
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021764
+    notes: Published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "GPS 기반 택시 데이터를 활용한 승객 탐색 경로의 시공간적 패턴 차이 분석"
+    authors: 홍지완, 정재영, <strong>오세훈</strong>, 주유형, 허준
+    conference_short: 한국측량학회지
+    conference: 한국측량학회지, Vol. 42(6), 561–573, 2024
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021765
+    notes: Published
+
+  - title: "Training Data Sensitivity Analysis of Deep Neural Network for Differentiating Construction Laborers with/without Safety Helmets"
+    authors: Young Ho Kwon, Sangyoon Park, Ta Minh Luan, <strong>Sehoon Oh</strong>, Joon Heo
+    conference_short: Computing in Civil Engineering
+    conference: Computing in Civil Engineering 2023, pp. 516–524
+    pdf: https://ascelibrary.org/doi/abs/10.1061/9780784485248.062
+    notes: Published
