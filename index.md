@@ -20,9 +20,8 @@ I expect to complete my M.S. degree in the first semester of 2026.
 ## News
 
 - **[Nov. 2023]** Participated in ACM SIGSPATIAL 2023 (Hamburg).  
-- **[Nov. 2023]** Received SIGSPATIAL GISCUP 2023 Travel Award (Top 8).  
-    - *Auto-identification of Supraglacial Lakes on the Greenland ice sheet from Satellite Imagery*  
-- **[Nov. 2024]** Participating in ACM SIGSPATIAL 2024 (Atlanta).  
+- **[Nov. 2023]** Our team (SCSI Lab) received the SIGSPATIAL GISCUP 2023 Travel Award (Top 8)!  
+- **[Nov. 2024]** Participated in ACM SIGSPATIAL 2024 (Atlanta).  
 - **[Jun. 2025]** Planning to attend IAHR 2025.  
 
 {% include_relative _includes/publications.md %}
