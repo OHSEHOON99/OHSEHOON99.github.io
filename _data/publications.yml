@@ -10,7 +10,8 @@ main:
     doi: 10.7848/ksgpc.2024.42.6.551
     pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021764
     notes: Published
-
+    image: ./assets/img/rainfall.png
+    
   - title: "Analysis of Spatiotemporal Pattern Differences in Passenger Search Routes Using GPS-based Taxi Data"
     authors: Jiwan Hong, Jaeyoung Jeong, <strong>Sehoon Oh</strong>, Youhyung Joo, Joon Heo
     type: Journal
@@ -21,7 +22,8 @@ main:
     doi: 10.7848/ksgpc.2024.42.6.561
     pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021765
     notes: Published
-
+    image: ./assets/img/taxi.png
+    
   - title: "Training Data Sensitivity Analysis of Deep Neural Network for Differentiating Construction Laborers with/without Safety Helmets"
     authors: Young Ho Kwon, Sangyoon Park, Ta Minh Luan, <strong>Sehoon Oh</strong>, Joon Heo
     type: Conference
