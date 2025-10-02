@@ -1,23 +1,33 @@
 main:
 
-  # - title: "딥러닝 기반 강수 예측 모델 개선 연구: 가중 평균 앙상블 기법을 통한 성능 향상"
-  #   authors: <strong>오세훈</strong>, 주유형, 박상윤, 홍지완, 허준
-  #   conference_short: 한국측량학회지
-  #   conference: 한국측량학회지, Vol. 42(6), 551–559, 2024
-  #   pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021764
-  #   notes: Published
+  - title: "Improving Deep Learning-Based Precipitation Nowcasting Models: Application of Weighted Average Ensemble Methods"
+    authors: <strong>Sehoon Oh</strong>, Youhyung Joo, Sangyoon Park, Jiwan Hong, Joon Heo
+    type: Journal
+    journal: Journal of the Korean Society of Surveying, Geodesy, Photogrammetry, and Cartography (JKSGPC)
+    volume: Vol. 42(6)
+    pages: 551–559
+    year: 2024
+    doi: 10.7848/ksgpc.2024.42.6.551
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021764
+    notes: Published
 
-  # - title: "GPS 기반 택시 데이터를 활용한 승객 탐색 경로의 시공간적 패턴 차이 분석"
-  #   authors: 홍지완, 정재영, <strong>오세훈</strong>, 주유형, 허준
-  #   conference_short: 한국측량학회지
-  #   conference: 한국측량학회지, Vol. 42(6), 561–573, 2024
-  #   pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021765
-  #   notes: Published
+  - title: "Analysis of Spatiotemporal Pattern Differences in Passenger Search Routes Using GPS-based Taxi Data"
+    authors: Jiwan Hong, Jaeyoung Jeong, <strong>Sehoon Oh</strong>, Youhyung Joo, Joon Heo
+    type: Journal
+    journal: Journal of the Korean Society of Surveying, Geodesy, Photogrammetry, and Cartography (JKSGPC)
+    volume: Vol. 42(6)
+    pages: 561–573
+    year: 2024
+    doi: 10.7848/ksgpc.2024.42.6.561
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12021765
+    notes: Published
 
   - title: "Training Data Sensitivity Analysis of Deep Neural Network for Differentiating Construction Laborers with/without Safety Helmets"
     authors: Young Ho Kwon, Sangyoon Park, Ta Minh Luan, <strong>Sehoon Oh</strong>, Joon Heo
-    conference_short: Computing in Civil Engineering
+    type: Conference
+    conference_short: CCE 2023
     conference: Computing in Civil Engineering 2023, pp. 516–524
+    year: 2023
     pdf: https://ascelibrary.org/doi/abs/10.1061/9780784485248.062
     notes: Published
     image: ./assets/img/helmet.png
