@@ -12,16 +12,19 @@ I expect to complete my M.S. degree in the first semester of 2026.
 
 ## Research Interests
 
-- **Spatial Data Science:** Mobility data analysis, Spatiotemporal modeling  
+- **Spatial Data Science:** Spatiotemporal modeling and mobility data analytics  
 - **Remote Sensing:** Deep learning and machine learning on satellite imagery  
-- **3D Point Cloud:** Scan vs BIM, 3D infrastructure modeling and safety assessment  
+- **3D Point Cloud:** Scan-vs-BIM, 3D infrastructure modeling and safety assessment  
 
 ## News
 
-- **[Nov. 2023]** Participated in ACM SIGSPATIAL 2023 (Hamburg).  
-- **[Nov. 2023]** Our team (SCSI Lab) received the SIGSPATIAL GISCUP 2023 Travel Award (Top 8)!  
-- **[Nov. 2024]** Participated in ACM SIGSPATIAL 2024 (Atlanta).  
-- **[Jun. 2025]** Planning to attend IAHR 2025.  
+- 🏆 **[Nov. 2025]** Our team (SCSI Lab) placed **Top-5** in the SIGSPATIAL GISCUP 2025 (HuMob Challenge).  
+- 📍 **[Nov. 2025]** Planning to attend **ACM SIGSPATIAL 2025 (Minneapolis)**.  
+- 🎤 **[Jun. 2025]** Attended **IAHR 2025** (poster presentation).  
+- 📍 **[Nov. 2024]** Participated in **ACM SIGSPATIAL 2024 (Atlanta)**.  
+- 🏆 **[Nov. 2023]** Our team (SCSI Lab) received the **SIGSPATIAL GISCUP 2023 Travel Award (Top 8)**.  
+- 📍 **[Nov. 2023]** Participated in **ACM SIGSPATIAL 2023 (Hamburg)**.  
+
 
 {% include_relative _includes/publications.md %}
 
