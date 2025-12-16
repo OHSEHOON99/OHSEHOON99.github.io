@@ -19,7 +19,7 @@ I expect to complete my M.S. degree in the first semester of 2026.
 ## News
 
 - 🏆 **[Nov. 2025]** Our team placed **Top-5** in the SIGSPATIAL GISCUP 2025 (HuMob Challenge).  
-- 📍 **[Nov. 2025]** Planning to attend **ACM SIGSPATIAL 2025 (Minneapolis, USA)**.  
+- 📍 **[Nov. 2025]** Attended **ACM SIGSPATIAL 2025 (Minneapolis, USA)** with a paper presentation.  
 - 🎤 **[Jun. 2025]** Presented a poster at **IAHR 2025 (Singapore)**.  
 - 📍 **[Nov. 2024]** Attended in **ACM SIGSPATIAL 2024 (Atlanta, USA)**.  
 - 🏆 **[Nov. 2023]** Our team received the **SIGSPATIAL GISCUP 2023 Travel Award (Top 8)**.  
